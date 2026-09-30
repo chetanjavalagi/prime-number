@@ -9,3 +9,4 @@ else:
             break
     else:
         print("prime number")
+print("program modified succesfulluy")
